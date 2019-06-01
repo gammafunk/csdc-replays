@@ -24,7 +24,7 @@ Interesting deaths from week 4.
 
 ### Part 1
 
-#### 1. Two Servants are Greater than One
+#### Two Servants are Greater than One
 
 Poopmaster the Blocker (L17 FoEn of Vehumet), Spider:4
 
@@ -36,7 +36,7 @@ http://crawl.akrasiac.org/rawdata/Poopmaster/2019-05-24.01:21:28.ttyrec.bz2
 
 Frame 60994
 
-#### 2. Digging For Trouble
+#### Digging For Trouble
 
 noobs the Executioner (L27 FoEn of Cheibriados), Pandemonium
 
@@ -48,7 +48,7 @@ http://lazy-life.ddo.jp/mirror/ttyrecs-0.23/noobs/2019-05-24.11:23:54.ttyrec.bz2
 
 Frame 264165
 
-#### 3. Serpent's Dash
+#### Serpent's Dash
 Amao the Slayer (L26 FoEn of Wu Jian), Slime:5
 
 `!lg csdc wk4 splat 3`
@@ -59,7 +59,7 @@ https://crawl.kelbi.org/crawl/ttyrec/Amao/2019-05-24.14:58:48.ttyrec.bz2
 
 Frame 31688
 
-#### 4. Leeeeemuuuuueeeeel!
+#### Leeeeemuuuuueeeeel!
 Mango the Epochal (L14 FoEn of Cheibriados), Lair:5
 
 `!lg csdc wk4 kmap~~lemuel 1 `
@@ -70,7 +70,7 @@ https://crawl.project357.org/ttyrec/Mango/2019-05-24.14:31:16.ttyrec.xz
 
 Frame 96400
 
-#### 5. Dancing With Elves
+#### Dancing With Elves
 december121212 the Formicid Blade (L20 FoEn of Wu Jian), Elf:3
 
 `!lg csdc wk4 splat 4`
@@ -81,7 +81,7 @@ https://webzook.net/soup/ttyrecs/december121212/2019-05-24.17:20:14.ttyrec.gz
 
 Frame 123863
 
-#### 6. Trial by Fire
+#### Trial by Fire
 happinessSam the Warrior (L27 FoEn of Cheibriados), Zot:2
 
 `!lg csdc wk4 splat 9`
@@ -92,7 +92,7 @@ https://crawl.kelbi.org/crawl/ttyrec/happinessSam/2019-05-26.17:06:18.ttyrec.bz2
 
 Frame 13289
 
-#### 7. Accursed Shaft
+#### Accursed Shaft
 shummie the Conqueror (L27 FoEn of Wu Jian), Coc:6, Accursed Shaft
 
 `!lg csdc wk4 splat 10`
@@ -103,7 +103,7 @@ http://crawl.berotato.org/crawl/ttyrec/shummie/2019-05-27.00:18:33.ttyrec.bz2
 
 Frame 153
 
-#### 8. A Truly Great Sword
+#### A Truly Great Sword
 SpaceButler the Warrior (L20 FoEn of Wu Jian), Shoals:4
 
 `!lg csdc wk4 splat 12`
@@ -116,7 +116,7 @@ Frame 17087
 
 ### Part 2
 
-#### 1.
+#### pedritolo
 pedritolo the Jinx (L10 FoEn of Wu Jian)
 
 `!lg pedritolo csdc wk4`
@@ -125,7 +125,10 @@ https://underhound.eu/crawl/morgue/pedritolo/morgue-pedritolo-20190524-213056.tx
 
 https://underhound.eu/crawl/ttyrec/pedritolo/2019-05-24.20:46:29.ttyrec.bz2
 
-#### 2.
+Frame 28211
+
+#### Xqipyl
+
 Xqipyl the Covert (L11 FoEn of Cheibriados)
 
 `!lg xqipyl csdc wk4`
@@ -134,7 +137,10 @@ https://crawl.kelbi.org/crawl/morgue/Xqipyl/morgue-Xqipyl-20190524-224423.txt
 
 https://crawl.kelbi.org/crawl/ttyrec/Xqipyl/2019-05-24.21:34:24.ttyrec.bz2
 
-#### 3.
+Frame 31115
+
+#### BlackCaro
+
 BlackCaro the Jinx (L15 FoEn of Wu Jian)
 
 `!lg blackcaro csdc wk4`
@@ -143,7 +149,11 @@ http://crawl.akrasiac.org/rawdata/BlackCaro/morgue-BlackCaro-20190525-012057.txt
 
 http://crawl.akrasiac.org/rawdata/BlackCaro/2019-05-25.00:12:30.ttyrec.bz2
 
-#### 4.
+Frame 41159
+
+
+#### Engine
+
 Engine the Covert (L11 FoEn of Wu Jian), Gauntlet
 
 `!lg csdc wk4 gauntlet`
@@ -152,7 +162,10 @@ https://webzook.net/soup/morgue/0.23/Engine/morgue-Engine-20190525-033048.txt
 
 https://webzook.net/soup/ttyrecs/Engine/2019-05-25.02:44:48.ttyrec.gz
 
-#### 5.
+Frame 40191
+
+#### EugeneJudo
+
 EugeneJudo the Peltast (L17 FoEn of Wu Jian), Vaults:3
 
 `!lg csdc wk4 vaults -2 `
@@ -161,7 +174,10 @@ https://crawl.kelbi.org/crawl/morgue/EugeneJudo/morgue-EugeneJudo-20190525-03090
 
 https://crawl.kelbi.org/crawl/ttyrec/EugeneJudo/2019-05-25.03:07:06.ttyrec.bz2
 
-#### 6.
+Frame 0
+
+#### Mgcat
+
 Mgcat the Cleaver (L14 FoEn of Cheibriados), Ice Cave
 
 `!lg csdc wk4 icecv`
@@ -170,7 +186,10 @@ https://crawl.xtahua.com/crawl/morgue/Mgcat/morgue-Mgcat-20190525-205338.txt
 
 https://crawl.xtahua.com/crawl/ttyrec/Mgcat/2019-05-25.20:44:43.ttyrec.bz2
 
-#### 7.
+Frame 10485
+
+#### agentchuck
+
 agentchuck the Slayer (L27 FoEn of Wu Jian), Depths:3
 
 `!lg csdc wk4 splat 14 `
@@ -179,20 +198,26 @@ http://crawl.akrasiac.org/rawdata/agentchuck/morgue-agentchuck-20190529-022517.t
 
 http://crawl.akrasiac.org/rawdata/agentchuck/2019-05-29.01:38:08.ttyrec.bz2
 
-#### 8.
+Frame 23332
+
+#### floatboth
+
 floatboth the Bewitcher (L19 FoEn of Dithmenos), Shoals:2
 
 `!lg csdc wk4 splat 15  `
 
 https://underhound.eu/crawl/morgue/floatboth/morgue-floatboth-20190530-161340.txt
 
-https://underhound.eu/crawl/ttyrec/floatboth/2019-05-30.15:07:26.ttyrec
+https://underhound.eu/crawl/ttyrec/floatboth/2019-05-30.15%3A07%3A26.ttyrec.bz2
+
+Frame 40497
 
 ## Cool Plays
 
 ### Part 1
 
-#### 1. About 200 moves back, used dispersal trap to get distance
+#### EugeneJudo
+
 EugeneJudo the Blocker (L15 FoEn of Wu Jian), Swamp:4
 
 `!lm eugenejudo csdc wk4 rune -tv:T34400`
@@ -203,7 +228,8 @@ https://crawl.kelbi.org/crawl/ttyrec/EugeneJudo/2019-05-24.03:14:20.ttyrec.bz2
 
 Frame 108159
 
-#### 2. Lerny almost killed me. god powers ftw. also, i suck at this game
+#### shummie
+
 shummie the Severer (L15 FoEn of Wu Jian), Swamp:4
 
 `!lm shummie csdc wk4 swamp:4 3 -tv:T2600`
@@ -214,7 +240,8 @@ http://crawl.berotato.org/crawl/ttyrec/shummie/2019-05-24.13:08:38.ttyrec.bz2
 
 Frame 734
 
-#### 3. you can lunge out of a wall :o
+#### Ultraviolent4
+
 YTcomUltraviolent4 the Warrior (L24 FoEn of Wu Jian), Zot:5
 
 `!lm uv4 csdc wk4 zot:5 1 -tv:T36500`
@@ -227,12 +254,162 @@ Frame 1709
 
 ### Part 2
 
-#### 1. cool play
+#### ebering 1-3
 ebering the Jinx (L12 FoEn of Wu Jian), Lair:4
+
+!lm ebering csdc wk4 lair:2
+
+https://crawl.kelbi.org/crawl/morgue/ebering/morgue-ebering-20190528-003426.txt
 
 https://crawl.kelbi.org/crawl/ttyrec/ebering/2019-05-25.02:01:21.ttyrec.bz2
 
+Frame 20945
+Frame 28988
+Frame 33126
+
+#### ebering 4
+ebering the Blocker (L15 FoEn of Wu Jian), Spider:1
+
+!lm ebering csdc wk4 uniq=nikola
+
 https://crawl.kelbi.org/crawl/morgue/ebering/morgue-ebering-20190528-003426.txt
+
+https://crawl.kelbi.org/crawl/ttyrec/ebering/2019-05-25.16:42:03.ttyrec.bz2
+
+Frame 7599
+
+#### ebering 5 & 6
+
+ebering the Warrior (L25 FoEn of Wu Jian), Slime:5
+
+!lm ebering csdc wk4 uniq=the\_royal\_jelly
+
+https://crawl.kelbi.org/crawl/morgue/ebering/morgue-ebering-20190528-003426.txt
+
+https://crawl.kelbi.org/crawl/ttyrec/ebering/2019-05-27.20:44:24.ttyrec.bz2
+
+Frame 19641
+Frame 54592
+
+#### petercordia 1
+
+petercordia the Vexing (L9), D:6
+
+!lm petercordia csdc wk4 d:7
+
+https://underhound.eu/crawl/morgue/petercordia/morgue-petercordia-20190528-014807.txt
+
+https://underhound.eu/crawl/ttyrec/petercordia/2019-05-24.00:13:05.ttyrec.bz2
+
+Frame 15272
+
+#### petercordia 2 & 3
+
+petercordia the Jinx (L12 of Cheibriados), Lair:6
+
+!lm petercordia csdc wk4 lair:6
+
+https://underhound.eu/crawl/morgue/petercordia/morgue-petercordia-20190528-014807.txt
+
+https://underhound.eu/crawl/ttyrec/petercordia/2019-05-25.07:03:24.ttyrec.bz2
+
+Frame 0
+
+https://underhound.eu/crawl/ttyrec/petercordia/2019-05-27.18:18:39.ttyrec.bz2
+
+Frame 0
+
+https://underhound.eu/crawl/ttyrec/petercordia/2019-05-28.01:15:25.ttyrec.bz2
+
+Frame 0
+
+#### Yermak 1 & 2
+
+!lm yermak csdc wk4 d:4
+
+https://crawl.kelbi.org/crawl/morgue/Yermak/morgue-Yermak-20190528-142036.txt
+
+https://crawl.kelbi.org/crawl/ttyrec/Yermak/2019-05-28.01:46:27.ttyrec.bz2
+
+Frame 2837
+
+Frame 120332
+
+#### blorx1
+
+blorx1 the Formicid Blade (L27 of Wu Jian), Zot:5
+
+!lm blorx1 csdc wk4 zot 1
+
+http://crawl.akrasiac.org/rawdata/blorx1/morgue-blorx1-20190529-023713.txt
+
+http://crawl.akrasiac.org/rawdata/blorx1/2019-05-29.01:50:24.ttyrec.bz2
+
+Frame 16391
+
+#### agentchuck
+
+agentchuck the Peltast (L18 FoEn of Wu Jian), Spider:4
+
+!lm agentchuck csdc wk4 spider:4 -tv:T47488
+
+http://crawl.akrasiac.org/rawdata/agentchuck/morgue-agentchuck-20190529-022517.txt
+
+http://crawl.akrasiac.org/rawdata/agentchuck/2019-05-26.01:21:06.ttyrec.bz2
+
+Frame 4979
+
+#### ShadedKnight
+
+ShadedKnight the Slayer (L27 FoEn of Wu Jian), Vaults:5
+
+!lm shadedknight csdc wk4 vaults:5 -tv:T44816
+
+http://crawl.berotato.org/crawl/morgue/ShadedKnight/morgue-ShadedKnight-20190529-183838.txt
+
+http://crawl.berotato.org/crawl/ttyrec/ShadedKnight/2019-05-28.15:09:19.ttyrec.bz2
+
+Frame 50537
+
+#### CoolPlay 1 & 2
+
+CoolPlay the Spear-Bearer (L19 FoEn of Wu Jian)
+
+!lm coolplay csdc wk4 shoals 1 -tv:T21432
+
+https://underhound.eu/crawl/morgue/CoolPlay/morgue-CoolPlay-20190529-202656.txt
+
+https://underhound.eu/crawl/ttyrec/CoolPlay/2019-05-28.16:32:22.ttyrec.bz2
+
+Frame 16521
+
+Frame 41579
+
+#### CoolPlay 3 & 4
+
+CoolPlay the Peltast (L27 FoEn of Wu Jian), Zot:5
+
+!lm coolplay csdc wk4 zot:5 -tv:T31658
+
+https://underhound.eu/crawl/morgue/CoolPlay/morgue-CoolPlay-20190529-202656.txt
+
+https://underhound.eu/crawl/ttyrec/CoolPlay/2019-05-29.17:33:51.ttyrec.bz2
+
+Frame 42300
+
+Frame 44521
+
+#### pleonasm
+
+pleonasm the Unseen (L17 FoEn of Wu Jian), Abyss:3
+
+!lm pleonasm csdc wk4 abyss:3 -tv:T37224
+
+http://crawl.akrasiac.org/rawdata/pleonasm/morgue-pleonasm-20190530-233428.txt
+
+http://crawl.akrasiac.org/rawdata/pleonasm/2019-05-30.01:16:31.ttyrec.bz2
+
+Frame 11263
 
 ## Playback
 
@@ -255,7 +432,7 @@ back.
 Note that the milestone commands for cool plays don't work for all servers, and
 you may have to watch the ttyrec directly instead.
 
-# Jettyplay
+### Jettyplay
 
 I use [Jettyplay](http://nethack4.org/projects/jettyplay/) to play these back
 from the ttyrec. It works with Java 8 and possibly later versions, but Java 11 on
