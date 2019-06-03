@@ -24,7 +24,7 @@ Lines in each entry are:
 
 Interesting deaths from week 4.
 
-### Part 1
+### Parts 1 & 2
 
 Watch the [first](https://youtu.be/lwvSC_nn5vg) and
 [second](https://youtu.be/Rt0zSMm4T1I) videos from the first stream for
@@ -118,7 +118,7 @@ https://underhound.eu/crawl/ttyrec/SpaceButler/2019-05-27.12:11:23.ttyrec
 
 Frame 17087
 
-### Part 2
+### Part 3
 
 Watch the [video](https://youtu.be/Gy1scZhLd3A) from the second stream for
 commentary on these deaths.
