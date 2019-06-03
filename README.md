@@ -1,6 +1,8 @@
 # CSDC 0.23 Week 4 Summaries by gammafunk
 
-A playlist with videos made from the Twitch streams where I watched and commented on
+## Videos
+
+A video playlist made from the Twitch streams where I watched and commented on
 these is available
 [here](https://www.youtube.com/watch?v=9YCBSod7Lko&list=PLFA1TrTf1UtUdpiNKPZMBwrX4snuucGhk).
 
@@ -24,8 +26,7 @@ Interesting deaths from week 4.
 
 ### Part 1
 
-#### Two Servants are Greater than One
-
+#### Poopmaster: Two Servants are Greater than One
 Poopmaster the Blocker (L17 FoEn of Vehumet), Spider:4
 
 `!lg csdc wk4 splat 1  `
@@ -36,8 +37,7 @@ http://crawl.akrasiac.org/rawdata/Poopmaster/2019-05-24.01:21:28.ttyrec.bz2
 
 Frame 60994
 
-#### Digging For Trouble
-
+#### noobs: Digging For Trouble
 noobs the Executioner (L27 FoEn of Cheibriados), Pandemonium
 
 `!lg csdc wk4 splat 2`
@@ -48,7 +48,7 @@ http://lazy-life.ddo.jp/mirror/ttyrecs-0.23/noobs/2019-05-24.11:23:54.ttyrec.bz2
 
 Frame 264165
 
-#### Serpent's Dash
+#### Amao: Serpent's Dash
 Amao the Slayer (L26 FoEn of Wu Jian), Slime:5
 
 `!lg csdc wk4 splat 3`
@@ -59,7 +59,7 @@ https://crawl.kelbi.org/crawl/ttyrec/Amao/2019-05-24.14:58:48.ttyrec.bz2
 
 Frame 31688
 
-#### Leeeeemuuuuueeeeel!
+#### Mango: Leeeeemuuuuueeeeel!
 Mango the Epochal (L14 FoEn of Cheibriados), Lair:5
 
 `!lg csdc wk4 kmap~~lemuel 1 `
@@ -70,7 +70,7 @@ https://crawl.project357.org/ttyrec/Mango/2019-05-24.14:31:16.ttyrec.xz
 
 Frame 96400
 
-#### Dancing With Elves
+#### december121212: Dancing With Elves
 december121212 the Formicid Blade (L20 FoEn of Wu Jian), Elf:3
 
 `!lg csdc wk4 splat 4`
@@ -81,7 +81,7 @@ https://webzook.net/soup/ttyrecs/december121212/2019-05-24.17:20:14.ttyrec.gz
 
 Frame 123863
 
-#### Trial by Fire
+#### happinessSam: Trial by Fire
 happinessSam the Warrior (L27 FoEn of Cheibriados), Zot:2
 
 `!lg csdc wk4 splat 9`
@@ -92,7 +92,7 @@ https://crawl.kelbi.org/crawl/ttyrec/happinessSam/2019-05-26.17:06:18.ttyrec.bz2
 
 Frame 13289
 
-#### Accursed Shaft
+#### shummie: Accursed Shaft
 shummie the Conqueror (L27 FoEn of Wu Jian), Coc:6, Accursed Shaft
 
 `!lg csdc wk4 splat 10`
@@ -103,7 +103,7 @@ http://crawl.berotato.org/crawl/ttyrec/shummie/2019-05-27.00:18:33.ttyrec.bz2
 
 Frame 153
 
-#### A Truly Great Sword
+#### SpaceButler: A Truly Great Sword
 SpaceButler the Warrior (L20 FoEn of Wu Jian), Shoals:4
 
 `!lg csdc wk4 splat 12`
@@ -128,7 +128,6 @@ https://underhound.eu/crawl/ttyrec/pedritolo/2019-05-24.20:46:29.ttyrec.bz2
 Frame 28211
 
 #### Xqipyl
-
 Xqipyl the Covert (L11 FoEn of Cheibriados)
 
 `!lg xqipyl csdc wk4`
@@ -140,7 +139,6 @@ https://crawl.kelbi.org/crawl/ttyrec/Xqipyl/2019-05-24.21:34:24.ttyrec.bz2
 Frame 31115
 
 #### BlackCaro
-
 BlackCaro the Jinx (L15 FoEn of Wu Jian)
 
 `!lg blackcaro csdc wk4`
@@ -153,7 +151,6 @@ Frame 41159
 
 
 #### Engine
-
 Engine the Covert (L11 FoEn of Wu Jian), Gauntlet
 
 `!lg csdc wk4 gauntlet`
@@ -165,7 +162,6 @@ https://webzook.net/soup/ttyrecs/Engine/2019-05-25.02:44:48.ttyrec.gz
 Frame 40191
 
 #### EugeneJudo
-
 EugeneJudo the Peltast (L17 FoEn of Wu Jian), Vaults:3
 
 `!lg csdc wk4 vaults -2 `
@@ -177,7 +173,6 @@ https://crawl.kelbi.org/crawl/ttyrec/EugeneJudo/2019-05-25.03:07:06.ttyrec.bz2
 Frame 0
 
 #### Mgcat
-
 Mgcat the Cleaver (L14 FoEn of Cheibriados), Ice Cave
 
 `!lg csdc wk4 icecv`
@@ -189,7 +184,6 @@ https://crawl.xtahua.com/crawl/ttyrec/Mgcat/2019-05-25.20:44:43.ttyrec.bz2
 Frame 10485
 
 #### agentchuck
-
 agentchuck the Slayer (L27 FoEn of Wu Jian), Depths:3
 
 `!lg csdc wk4 splat 14 `
@@ -201,7 +195,6 @@ http://crawl.akrasiac.org/rawdata/agentchuck/2019-05-29.01:38:08.ttyrec.bz2
 Frame 23332
 
 #### floatboth
-
 floatboth the Bewitcher (L19 FoEn of Dithmenos), Shoals:2
 
 `!lg csdc wk4 splat 15  `
@@ -217,7 +210,6 @@ Frame 40497
 ### Part 1
 
 #### EugeneJudo
-
 EugeneJudo the Blocker (L15 FoEn of Wu Jian), Swamp:4
 
 `!lm eugenejudo csdc wk4 rune -tv:T34400`
@@ -229,7 +221,6 @@ https://crawl.kelbi.org/crawl/ttyrec/EugeneJudo/2019-05-24.03:14:20.ttyrec.bz2
 Frame 108159
 
 #### shummie
-
 shummie the Severer (L15 FoEn of Wu Jian), Swamp:4
 
 `!lm shummie csdc wk4 swamp:4 3 -tv:T2600`
@@ -241,7 +232,6 @@ http://crawl.berotato.org/crawl/ttyrec/shummie/2019-05-24.13:08:38.ttyrec.bz2
 Frame 734
 
 #### Ultraviolent4
-
 YTcomUltraviolent4 the Warrior (L24 FoEn of Wu Jian), Zot:5
 
 `!lm uv4 csdc wk4 zot:5 1 -tv:T36500`
@@ -263,9 +253,7 @@ https://crawl.kelbi.org/crawl/morgue/ebering/morgue-ebering-20190528-003426.txt
 
 https://crawl.kelbi.org/crawl/ttyrec/ebering/2019-05-25.02:01:21.ttyrec.bz2
 
-Frame 20945
-Frame 28988
-Frame 33126
+Frames 20945, 28988, 33126
 
 #### ebering 4
 ebering the Blocker (L15 FoEn of Wu Jian), Spider:1
@@ -288,8 +276,7 @@ https://crawl.kelbi.org/crawl/morgue/ebering/morgue-ebering-20190528-003426.txt
 
 https://crawl.kelbi.org/crawl/ttyrec/ebering/2019-05-27.20:44:24.ttyrec.bz2
 
-Frame 19641
-Frame 54592
+Frames 19641, 54592
 
 #### petercordia 1
 
@@ -313,7 +300,7 @@ https://underhound.eu/crawl/morgue/petercordia/morgue-petercordia-20190528-01480
 
 https://underhound.eu/crawl/ttyrec/petercordia/2019-05-25.07:03:24.ttyrec.bz2
 
-Frame 0
+Frames 0
 
 https://underhound.eu/crawl/ttyrec/petercordia/2019-05-27.18:18:39.ttyrec.bz2
 
@@ -331,9 +318,7 @@ https://crawl.kelbi.org/crawl/morgue/Yermak/morgue-Yermak-20190528-142036.txt
 
 https://crawl.kelbi.org/crawl/ttyrec/Yermak/2019-05-28.01:46:27.ttyrec.bz2
 
-Frame 2837
-
-Frame 120332
+Frames 2837, 120332
 
 #### blorx1
 
@@ -381,9 +366,7 @@ https://underhound.eu/crawl/morgue/CoolPlay/morgue-CoolPlay-20190529-202656.txt
 
 https://underhound.eu/crawl/ttyrec/CoolPlay/2019-05-28.16:32:22.ttyrec.bz2
 
-Frame 16521
-
-Frame 41579
+Frames 16521, 41579
 
 #### CoolPlay 3 & 4
 
@@ -395,9 +378,7 @@ https://underhound.eu/crawl/morgue/CoolPlay/morgue-CoolPlay-20190529-202656.txt
 
 https://underhound.eu/crawl/ttyrec/CoolPlay/2019-05-29.17:33:51.ttyrec.bz2
 
-Frame 42300
-
-Frame 44521
+Frame 42300, 44521
 
 #### pleonasm
 
