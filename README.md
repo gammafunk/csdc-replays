@@ -2,9 +2,9 @@
 
 ## Videos
 
-A video playlist made from the Twitch streams where I watched and commented on
-these is available
-[here](https://www.youtube.com/watch?v=9YCBSod7Lko&list=PLFA1TrTf1UtUdpiNKPZMBwrX4snuucGhk).
+Watch this [video
+playlist](https://www.youtube.com/watch?v=9YCBSod7Lko&list=PLFA1TrTf1UtUdpiNKPZMBwrX4snuucGhk)
+made from the Twitch streams for my commentary.
 
 You can subscribe to my [youtube
 channel](https://www.youtube.com/channel/UCX1x-zaNaKsE7d4-kq5_Ing) for more
@@ -25,6 +25,10 @@ Lines in each entry are:
 Interesting deaths from week 4.
 
 ### Part 1
+
+Watch the [first](https://youtu.be/lwvSC_nn5vg) and
+[second](https://youtu.be/Rt0zSMm4T1I) videos from the first stream for
+commentary on these deaths.
 
 #### Poopmaster: Two Servants are Greater than One
 Poopmaster the Blocker (L17 FoEn of Vehumet), Spider:4
@@ -115,6 +119,9 @@ https://underhound.eu/crawl/ttyrec/SpaceButler/2019-05-27.12:11:23.ttyrec
 Frame 17087
 
 ### Part 2
+
+Watch the [video](https://youtu.be/Gy1scZhLd3A) from the second stream for
+commentary on these deaths.
 
 #### pedritolo
 pedritolo the Jinx (L10 FoEn of Wu Jian)
@@ -207,7 +214,12 @@ Frame 40497
 
 ## Cool Plays
 
+Interesting cool plays from week 4.
+
 ### Part 1
+
+Watch the [video](https://youtu.be/9YCBSod7Lko) from the first stream for
+commentary on these cool plays.
 
 #### EugeneJudo
 EugeneJudo the Blocker (L15 FoEn of Wu Jian), Swamp:4
@@ -243,6 +255,9 @@ https://crawl.project357.org/ttyrec/YTcomUltraviolent4/2019-05-27.04:30:00.ttyre
 Frame 1709
 
 ### Part 2
+
+Watch the [video](https://youtu.be/-xuJTWuWa9A) from the second stream for
+commentary on these cool plays.
 
 #### ebering 1-3
 ebering the Jinx (L12 FoEn of Wu Jian), Lair:4
